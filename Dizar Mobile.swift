@@ -4,9 +4,9 @@ var setup = "Welcome!"
 var textElement = "Create, comment, and manage AIRS with Dizar Mobile!"
 
 var button = "Let's Go!"
-var otherButton = "Continue without Login"
+var otherButton = "Not now"
 
-func setupEngine(Email, Password) {
+func setupEngine() {
 
 } {
     var otherTextElement = "Let's connect to your Dizar Profile"
