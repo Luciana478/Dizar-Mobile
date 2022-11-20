@@ -28,3 +28,5 @@ This iPhone has Dizar installed, so we can learn how to use it:
 Click at **New Air** and give it a name, then, click at **OK**. The Engine would be started.
 
 ![Sem título 2](https://user-images.githubusercontent.com/118472754/202901853-ec8ab573-fda1-4987-8a34-6ce0ac311d95.png)
+
+
