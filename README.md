@@ -19,6 +19,7 @@ About 12 seconds left, you would be connected!
 * What i see it's only a terminal: Contact to dizar support to solve the problem in ***import UIKit***
 
 # How to Create a new project
+
 ![Sem título](https://user-images.githubusercontent.com/118472754/202900929-cee6e961-a1a0-4dd6-84aa-15f48ec32327.png)
 
 This iPhone has Dizar installed, so we can learn how to use it:
@@ -36,5 +37,6 @@ After the engine starts, create a new object:
     object.create(cube:instance)
 
 ...Or, click at **New instance**, and select the instance you want to put it:
+
 ![Sem título 3](https://user-images.githubusercontent.com/118677397/202923978-11f84bc4-17ec-42a2-bb44-76bf95a0393d.png)
 
