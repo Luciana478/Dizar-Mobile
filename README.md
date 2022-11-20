@@ -1,4 +1,4 @@
-# Dizar-Mobile
+# Dizar Mobile
 Hello! Create, comment, and manage AIRS with Dizar Mobile! Dizar Mobile is a simple way to manage and create projects from your iPhone! The payment cost are **FREE**!
 
 # Installation
@@ -30,4 +30,6 @@ Click at **New Air** and give it a name, then, click at **OK**. The Engine would
 
 ![Sem título 2](https://user-images.githubusercontent.com/118472754/202901853-ec8ab573-fda1-4987-8a34-6ce0ac311d95.png)
 
+After the engine starts, create a new object:
 
+    object.create(cube:instance)
