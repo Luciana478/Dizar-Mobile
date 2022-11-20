@@ -23,6 +23,7 @@ About 12 seconds left, you would be connected!
 This iPhone has Dizar installed, so we can learn how to use it:
 * First of all, you need to Sign in. Click at "Let's go!".
 * Use your Username and passcode to start your journey!
+
 **Note:** If you don't sign in, then you can only manage your projects, and you don't can create or edit your games. And the wrost part: you can't disable the bluetooth and needs to stay nearby the computer!
 
 Click at **New Air** and give it a name, then, click at **OK**. The Engine would be started.
