@@ -17,4 +17,10 @@ About 12 seconds left, you would be connected!
 * My Account don't load my projects: Make sure you are logged in to your profile and you has 3G, 4G or 5G connection.
 * Dizar is not opening: Make sure your Device has IOS 8 or Above. If doesn't have, then your device aren't Compatible. If yes, Install Dizar again to re-install the 7z Library.
 
+# How to Create a new project
 ![Sem título](https://user-images.githubusercontent.com/118472754/202900929-cee6e961-a1a0-4dd6-84aa-15f48ec32327.png)
+
+This iPhone has Dizar installed, so we can learn how to use it:
+* First of all, you need to Sign in. Click at "Let's go!".
+* Use your Username and passcode to start your journey!
+**Note:** If you don't sign in, then you can only manage your projects, and you don't can create or edit your games. And the wrost part: you can't disable the bluetooth and needs to stay nearby the computer!
