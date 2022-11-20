@@ -1,4 +1,4 @@
-# Dizar-Mobile
+# Dizar Mobile
 Hello! Create, comment, and manage AIRS with Dizar Mobile! Dizar Mobile is a simple way to manage and create projects from your iPhone! The payment cost are **FREE**!
 
 # Installation
