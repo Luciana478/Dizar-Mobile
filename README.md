@@ -34,3 +34,5 @@ Click at **New Air** and give it a name, then, click at **OK**. The Engine would
 After the engine starts, create a new object:
 
     object.create(cube:instance)
+
+...Or, click at **New instance**, and select the instance you want to put it!
