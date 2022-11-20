@@ -16,3 +16,5 @@ About 12 seconds left, you would be connected!
 * Dizar won't connect me: Make sure you'll stay connected to WiFi and you're has a Dizar Account. If yes, Contact to the support team.
 * My Account don't load my projects: Make sure you are logged in to your profile and you has 3G, 4G or 5G connection.
 * Dizar is not opening: Make sure your Device has IOS 8 or Above. If doesn't have, then your device aren't Compatible. If yes, Install Dizar again to re-install the 7z Library.
+
+![15603036094494](https://user-images.githubusercontent.com/118472754/202899554-dda86015-547f-4bda-a5b5-3b7346e0c330.jpg)
