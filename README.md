@@ -39,4 +39,3 @@ After the engine starts, create a new object:
 ...Or, click at **New instance**, and select the instance you want to put it:
 
 ![Sem título 3](https://user-images.githubusercontent.com/118677397/202923978-11f84bc4-17ec-42a2-bb44-76bf95a0393d.png)
-
