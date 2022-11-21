@@ -40,6 +40,20 @@ After the engine starts, create a new object:
 
 ![Sem título 3](https://user-images.githubusercontent.com/118677397/202923978-11f84bc4-17ec-42a2-bb44-76bf95a0393d.png)
 
-Every element are too in Dizar for Windows, but the Mini store are disabled.
+Every element are too in Dizar for Windows, but the Mini store are disabled for iPhones.
 
-The engine use Swift language, so you can learn now:
+The engine uses Swift language, so you can learn now.
+
+* First of all, the Swift is an authorized copy by Apple, and it's modifyed: the 
+
+    func name(arguments) {
+       code
+    } 
+
+part is required!
+
+## How to script?
+It's easy to script: touch at New Object, then, in Swift Code Lines.
+you will be see this screen:
+
+![Sem título 4](https://user-images.githubusercontent.com/118677397/203153393-f09ac2a9-7c7a-4f4d-bd05-2293b5065c2f.png)
