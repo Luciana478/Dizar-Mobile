@@ -46,10 +46,6 @@ The engine uses Swift language, so you can learn now.
 
 * First of all, the Swift is an authorized copy by Apple, and it's modifyed: the 
 
-    func name(arguments) {
-       code
-    } 
-
 part is required!
 
 ## How to script?
