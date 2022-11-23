@@ -49,7 +49,18 @@ The engine uses Swift language, so you can learn now.
 part is required!
 
 ## How to script?
-It's easy to script: touch at New Object, then, in Swift Code Lines.
+It's easy to script: touch at New Object, then, in Get Code Lines.
 you will be see this screen:
 
 ![Sem título 4](https://user-images.githubusercontent.com/118677397/203153393-f09ac2a9-7c7a-4f4d-bd05-2293b5065c2f.png)
+
+Let's create this: a digital farmer tracker
+
+    func trackerSoilSystem() {
+      var soil = object.Friend("Terrain")
+      var soilMosture = soil.Friend(Terrain.color)
+      
+      if (soilMosture == "Dark Green") {
+        soilMosture.Append(": 99%")
+      }
+    }
