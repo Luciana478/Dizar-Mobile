@@ -5,5 +5,5 @@ This document cannot be reproduced without our permission.
 IDs are information about you: your adress, your school or even your name!
 
 ## What Dizar do with your data?
-We just see it. and we only get this for get personalized features.
+Nothing. we only get this for get personalized features.
 
