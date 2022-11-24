@@ -79,7 +79,7 @@ It's simple to use Games like Mini Items:
 Done!
 
 ## Create with scripts
-Scripts are sinple:
+Scripts are simple:
 
     func startServer (onlineInterest) {
       Object.create (city.instance, style: Futuristic)
