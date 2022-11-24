@@ -77,3 +77,10 @@ It's simple to use Games like Mini Items:
 * Select **Put on sales!**.
 
 Done!
+
+## Create with scripts
+Scripts are sinple:
+
+    func startServer (onlineInterest) {
+      Object.create (city.instance, style: Futuristic)
+    }
