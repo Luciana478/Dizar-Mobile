@@ -67,4 +67,13 @@ Let's create this: a digital farmer tracker
     
 Cool, huh?
 
-## Create with scripts
+## Create with Mini Items
+The mini items are objects you buyed at the Minis store (Needs to create this in a PC).
+
+It's simple to use Games like Mini Items:
+* Select the **Paper** and long click.
+* Select **Sell**.
+* Login with your seller account. if you don't have it, then create one.
+* Select **Put on sales!**.
+
+Done!
