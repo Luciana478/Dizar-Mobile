@@ -34,7 +34,7 @@ Click at **New Air** and give it a name, then, click at **OK**. The Engine would
 
 After the engine starts, create a new object:
 
-    object.create(cube:instance)
+    object.create("player":instance)
 
 ...Or, click at **New instance**, and select the instance you want to put it:
 
@@ -64,3 +64,7 @@ Let's create this: a digital farmer tracker
         soilMosture.Append(": 99%")
       }
     }
+    
+Cool, huh?
+
+## Create with scripts
