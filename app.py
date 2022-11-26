@@ -3,7 +3,7 @@ import PyUI23
 def greetings(self):
     layout = [
         self.firstHeadingLabel("Welcome back!"),
-        self.secondHeadingLabel
+        self.paragraph("Sign In to your account to continue"),
 
 
 
